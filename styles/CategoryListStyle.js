@@ -2,7 +2,6 @@ import { StyleSheet } from 'react-native'
 
 const styles = StyleSheet.create({
     container: {
-        alignItems: 'center',
         padding: 16,
         marginBottom: 16,
         elevation: 4,
@@ -18,6 +17,9 @@ const styles = StyleSheet.create({
     imgCategory: {
         width: 64,
         height: 64
+    },
+    styleTouch: {
+        alignItems: 'center'
     },
 });
 
