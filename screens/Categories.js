@@ -24,7 +24,7 @@ export default class Categories extends React.Component {
         { id: 6, name: "Mask đắp mặt", img: Facetreatment },
         { id: 7, name: "Sữa tắm", img: Showergel },
         { id: 8, name: "Dầu gội", img: Shampoo },
-      ],
+      ]
     };
   }
 
